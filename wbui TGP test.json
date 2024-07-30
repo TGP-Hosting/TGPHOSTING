@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 1,
-            "HideIcon": false,
+            "HideIcon": True,
             "HideIconAfter": 60,
             "IconURL": "https://iili.io/dIOHMLQ.png",
             "DisableIconText": true,
