@@ -14,12 +14,13 @@
         },
         "tabs": [
             {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome!</>",
-                    "title1": "Welcome to TGP!",
-                    "text1": "Welcome to TGP, We are an ever expanding Australian Ark community.\n\n<TextStyle.Red>We have an incredily strong admin team</> so if every you feel like you require assistance\nPlease dont hesistate to reach out to us via discord, The link is <TextStyle.Blue>discord.gg/tgp</> ",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0,0,1\">Welcome!</>",
+				"title1": "<TextStyle.Red>Welcome</> <TextStyle.Yellow>to</> <TextStyle.Red>T</><TextStyle.Yellow>G</><TextStyle.Red>P</>!",
+				"text1": "Welcome to TGP, We are an ever expanding Australian Ark community.\r\n\r\n\r\nYou will find during your time here at TGP we are a close community that loves a bit of banter but always looks out for one another at heart.\r\nWe arent interested in having Bob's wiped and the pop crushed end of story. So take your time, build up and fight the bigger more established members. and most importantly have some fun!\r\n\r\nIf you are New dont forget you can claim 1 PvP kit per hour and 1 Starter Pack every 24 hours via typing <TextStyle.White>/starter & /kit</> \r\n\r\nHere you can find our  <TextStyle.White>Server Info</>, <TextStyle.Red>Rules!</>, <TextStyle.Yellow>Drops</>, <TextStyle.Orange>Tip's</>.\r\nso make sure you take your time and have a look around to best familiarise yourself with our community!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<TextStyle.Red>We have an incredily strong admin team</> so if ever you feel like you require assistance\r\nPlease dont hesistate to reach out to us via discord, The link is <TextStyle.Blue>discord.gg/tgp</> ",
+				"imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
