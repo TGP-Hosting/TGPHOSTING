@@ -1,12 +1,12 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": 1,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-            "DisableIconText": false,
-            "IconPosition": 0,
+            "IconURL": "https://iili.io/dIOHMLQ.png",
+            "DisableIconText": true,
+            "IconPosition": 3,
             "IconTextColor": 0,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome!</>",
                     "title1": "Welcome to TGP!",
-                    "text1": "🍻We are a community driven by friends who game together. We are dedicated in creating a community centered in balance, fair play, respect and fun. All our staff are trained to be friendly and professional as to make your gaming in TGP a great experience.",
+                    "text1": "Welcome to TGP, We are an ever expanding Australian Ark community.\n\n<TextStyle.Red>We have an incredily strong admin team</> so if every you feel like you require assistance\nPlease dont hesistate to reach out to us via discord, The link is <TextStyle.Blue>discord.gg/tgp</> ",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
