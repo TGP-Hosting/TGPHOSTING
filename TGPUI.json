@@ -1,0 +1,128 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 1,
+            "hideicon": true,
+            "hideiconafter": 120,
+            "iconurl": "https://freeimage.host/i/comp-1-0000127.dmHVsZG",
+            "disableicontext": true,
+            "iconposition": 3,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Welcome!",
+                "imageurl": "https://iili.io/dTLWNQs.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Yellow>Welcome to TGP!</>",
+                        "text": "Welcome to TGP — An Australian Ark Community\r\n\r\nThanks for joining us. TGP is a growing Ark community that focuses on fair play, long-term progression, and an environment where players can enjoy PvP without constant wipe threats. We’re not here to stomp out new survivors — we want you to have the time and space to build, grow, and eventually take on the bigger tribes.\r\n\r\nWhether you’re playing solo or as part of a group, you’ll find plenty of support, competition, and opportunities to make your mark.\r\n\r\nWhat You’ll Find Here:\r\n\r\n• <TextStyle.Green>Server Info</> – Settings, rates, mods, and stat changes\r\n• <TextStyle.Red>Rules</> – Know what’s allowed (and what isn’t)\r\n• <TextStyle.LightBlue>Drops</> – Details on custom loot and crates\r\n• <TextStyle.Orange>Tips</> – Useful tricks and community advice\r\n\r\nTake a few moments to read through the tabs — knowing the details will help you get the most out of your time here.\r\n\r\nNeed Help?\r\n\r\nOur admin team is active and here to help. If you’re ever stuck, confused, or run into issues, reach out on <TextStyle.Blue>Discord</> and we’ll get you sorted.\r\n\r\nJoin the community: https://discord.gg/tgpasa\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "<RichColor Color=\"0,1,0,1\">Server Info</>",
+                "imageurl": "https://iili.io/dho5I3b.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Orange>General Settings</>",
+                        "text": "Core cluster configurations and tribe limitations:\r\n\r\n<TextStyle.Green>Base Rates:</>\r\n<TextStyle.White>Harvest:</> 5x\r\n<TextStyle.White>Taming:</> 10x\r\n<TextStyle.White>XP:</> 2.5x\r\n<TextStyle.White>Stack Size:</> 10x\r\n<TextStyle.White>Custom Caves:</> Enabled\r\n\r\n<TextStyle.Green>ORP (Offline Raid Protection):</>\r\n<TextStyle.White>Turret Damage:</> 2x\r\n<TextStyle.White>Structure Resistance:</> 2x\r\n<TextStyle.White>Eligibility:</> Solo/Duo only (via application)\r\n\r\n<TextStyle.Green>Turrets:</>\r\n<TextStyle.White>Turret Limit:</> 150\r\n<TextStyle.White>Turret Damage:</> 1x\r\n\r\n<TextStyle.Green>Transfers:</>\r\n<TextStyle.White>Tribute Transfers:</> Enabled\r\n<TextStyle.White>Element Transfers:</> Enabled\r\n\r\n<TextStyle.Green>Dinos:</>\r\n<TextStyle.White>Saddle Cap:</> Official\r\n<TextStyle.White>Tribe Dino Limit:</> 250\r\n<TextStyle.White>Tamed Food Drain:</> 0.75%\r\n<TextStyle.White>Wild Dino Wipes:</> Daily at 3AM & 3PM AEST\r\n\r\n<TextStyle.Green>Players:</>\r\n<TextStyle.White>Equipment Cap:</> Official\r\n<TextStyle.White>Tribe Size:</> 4\r\n<TextStyle.White>Allies:</> Disabled\r\n<TextStyle.White>Food & Water Drain:</> 0.50%\r\n\r\n<TextStyle.Green>Cryopods & Cryo Guns:</>\r\n<TextStyle.White>Range:</> 3 Foundations\r\n<TextStyle.White>Cooldown/Sickness:</> Official\r\n<TextStyle.White>Cryofridge Requirements:</> Disabled\r\n<TextStyle.White>Cryo Capture Disabled:</> 15s after dealing/receiving damage"
+                    },
+                    {
+                        "title": "<TextStyle.Orange>Stat & Balance Changes</>",
+                        "text": "Below are the adjusted stats for players and dinos. If a stat isn’t listed, it remains at official values.\r\n\r\n<TextStyle.Green>Players (Per Level):</>\r\n<TextStyle.White>Health:</> +10\r\n<TextStyle.White>Stamina:</> +20\r\n<TextStyle.White>Oxygen:</> +100\r\n<TextStyle.White>Food:</> +25\r\n<TextStyle.White>Water:</> +25\r\n<TextStyle.White>Weight:</> +250\r\n<TextStyle.White>Melee:</> +7.5%\r\n<TextStyle.White>Fortitude:</> +10\r\n<TextStyle.White>Crafting:</> +15%\r\n\r\n<TextStyle.Green>Dinos (Per Level):</>\r\n<TextStyle.White>Health:</> +6.75%\r\n<TextStyle.White>Weight:</> +100%\r\n<TextStyle.White>Stamina:</> 2x Base Wild + Official per level\r\n\r\n<TextStyle.Green>Creature-Specific Balancing:</>\r\n\r\n<TextStyle.White>• Arthropluera (Tamed):</> 1.5x Damage\r\n<TextStyle.White>• Ceratosaurus (Wild):</> 0.25x Damage\r\n<TextStyle.White>• Pegomastax (Wild):</> 0.1x Resistance\r\n<TextStyle.White>• Vultures (Wild):</> 0.5x Damage, 0.75x Resistance\r\n<TextStyle.White>• Ichthyornis:</> Disabled\r\n\r\n<TextStyle.Green>Spawn Adjustments:</>\r\n<TextStyle.White>• Giga & Carcha:</> Now spawn in the Scorched Earth desert"
+                    },
+                    {
+                        "title": "<TextStyle.Orange>Breeding & Raising</>",
+                        "text": "Key settings for breeding, raising, and imprinting your dinos.\r\n\r\n<TextStyle.Green>General Settings:</>\r\n<TextStyle.White>Maturation:</> 22x\r\n<TextStyle.White>Incubation:</> 12x\r\n<TextStyle.White>Mating Interval:</> 32m 24s – 86m 24s\r\n\r\n<TextStyle.Green>Baby Settings:</>\r\n<TextStyle.White>Anyone Can Cuddle:</> Enabled\r\n<TextStyle.White>Food Consumption:</> 50% Reduced\r\n<TextStyle.White>Imprint Timer:</> Every 24 minutes (1–2 imprints required)"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<RichColor Color=\"1,0,0,1\">Rules!</>",
+                "imageurl": "https://iili.io/dTyfMUG.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Red>General Rules</>",
+                        "text": "<TextStyle.Red>Rule 1</> - <TextStyle.White>Evidence/Proof or GTFO</>\r\n- Have screenshots or clips ready before submitting a ticket. No proof = no action.\r\n<TextStyle.Red>Rule 2</> - <TextStyle.White>Bullying / Racism</>\r\n- Banter is okay. Targeted abuse, racism, or hate speech isn’t. Punishment severity may vary.\r\n<TextStyle.Red>Rule 3</> - <TextStyle.White>Name Restrictions</>\r\n- No \"Admin\", \"Human\", barcodes, \"123\" etc. Admins will rename at discretion.\r\n<TextStyle.Red>Rule 4</> - <TextStyle.White>No Impersonating Staff</>\r\n- Instant and permanent ban from TGP.\r\n<TextStyle.Red>Rule 5</> - <TextStyle.White>No Unapproved Advertising</>\r\n- Promoting outside servers or Discords? Ask via ticket first — or get banned.\r\n<TextStyle.Red>Rule 6</> - <TextStyle.White>No Dossing & Doxxing</>\r\n- Sharing personal info or attacking servers = instant permanent ban.\r\n<TextStyle.Red>Rule 7</> - <TextStyle.White>Don’t Interfere with Admins</>\r\n- If you’re asked to move, stop, or leave — do so.\r\n\r\n<TextStyle.Red>Punishments:</>\r\n<TextStyle.White>1st Offence: Warning & Tribe logged</>\r\n<TextStyle.White>2nd Offence: 1-week ban</>\r\n<TextStyle.White>3rd Offence: Season ban</>\r\nAdmin discretion applies."
+                    },
+                    {
+                        "title": "<TextStyle.Red>PVP/Raid Rules</>",
+                        "text": "<TextStyle.Red>Rule 1</> - <TextStyle.White>No Mesh Biting</>\r\n- Attacking through the mesh = your dino goes to your enemy.\r\n<TextStyle.Red>Rule 2</> - <TextStyle.White>Caging & Handcuffs</>\r\n- Caging allowed up to 1 hour. No extended torture. Handcuffs fall under the same limit. (Timer Starts once a ticket is made)\r\n<TextStyle.Red>Rule 3</> - <TextStyle.White>Box Platforms & Tunnel Builds</>\r\n- You may only box the rider of a dino. No surrounding the dino or tunnel builds to bypass turrets/spam.\r\n<TextStyle.Red>Rule 4</> - <TextStyle.White>No Cheats, Hacks, Meshing or Exploits</>\r\n- This includes but is not limited to building in the mesh and or traversing through it. Permanent ban, no appeal.\r\n<TextStyle.Red>Rule 5</> - <TextStyle.White>No Griefing or Bullying</>\r\n- Includes: harassing players/tribes repeatedly, not letting players rebuild, bullying new players.\r\n<TextStyle.Red>Rule 6</> - <TextStyle.White> No Tame Sniping</>\r\n- You cannot kill dinos left at base unless you're raiding or fobbed up.\r\n<TextStyle.Red>Rule 7</> - <TextStyle.White>Counter Raiding</>\r\n- If you fob up to counter a raid, you must follow through. No half-hearted counters.\r\n<TextStyle.Red>Rule 8</> - <TextStyle.White>No Popcorning / Despawning</>\r\n- Intentionally trashing loot is illegal. Take what you can or leave it.\r\n<TextStyle.Red>Rule 9</> - <TextStyle.White>No Moonpool Soaker Traps</>\r\n- Placing moonpools over water soakers during a raid to kill them is banned. Existing pre-placed moonpools are fine.\r\n\r\n<TextStyle.Red>PSA</> - <TextStyle.White>Ascension Boss Fights</>\r\n- Place element on dinos after completing ascension bosses to prevent loss.\r\n\r\n<TextStyle.Red>Punishments:</>\r\n<TextStyle.White>At the Admins discretion.</>"
+                    },
+                    {
+                        "title": "<TextStyle.Red>Building Rules</>",
+                        "text": "<TextStyle.Red>Rule 1</> - <TextStyle.White>No Building in Banned Location</>\r\n- Swamp Cave, Volcano Top, Major Resource Spawns, or in/near mesh. Red-gunned without warning.\r\n<TextStyle.Red>Rule 2</> - <TextStyle.White>No Meshing</>\r\n- Any structure in the mesh = season ban minimum.\r\n<TextStyle.Red>Rule 3</> - <TextStyle.White>Teleporters</>\r\n- Small teleporters near resource zones are okay with ≤10 turrets. Must not block the area.\r\n<TextStyle.Red>Rule 4</> - <TextStyle.White>Spam Limits</>\r\n- All spam must remain within 20 foundations of your furthest turret tower.\r\n- A maximum of 10 cliff platforms may be used as spam.\r\n- Carpet spam is only allowed between the entrance of your base/cave and your closest turret tower — not beyond.\r\n- Clean up your spam after use, especially following raids or PvP engagements.\r\n<TextStyle.Red>Rule 5</> - <TextStyle.White>No “Fortnite” Building</>\r\n- Don’t build into someone’s base to bypass defenses. Clear their spam, then engage.\r\n<TextStyle.Red>Rule 6</> - <TextStyle.White> Illegal Base Spots</>\r\n- If it takes a chair, bag, hook, or other tricks to enter your base — it's illegal. Red-gunned instantly.\r\n<TextStyle.Red>Rule 7</> - <TextStyle.White>No Open World Turrets</>\r\n- Turrets in the open world without context (e.g. for raiding/taming) are not allowed. Temporary fobs or taming setups must be packed up promptly.\r\n<TextStyle.Red>Rule 8</> - <TextStyle.White> Blockages</>\r\n- No blocking cave entrances, surface entries (like on Aberration), or trapping players in bases/caves with no exit.\r\n<TextStyle.Red>Rule 9</> - <TextStyle.White> # of Base Locations</>\r\n- All tribes are allowed a maximum of 1 Main base per map \r\n\r\n<TextStyle.Red>Punishments</>\r\n<TextStyle.White>1st Offence: Warning & tribe logged/Instant Red Gun</>\r\n<TextStyle.White>2nd Offence: 1-week ban</>\r\n<TextStyle.White>3rd Offence: Season ban</>\r\nAdmin discretion applies."
+                    },
+                    {
+                        "title": "<TextStyle.Red>Tribe Rules</>",
+                        "text": "<TextStyle.Red>Rule 1</> - <TextStyle.White>4-Man Tribe Limit</>\r\n- No allies, no exceptions. Same 4-man roster across all maps.\r\n<TextStyle.Red>Rule 2</> - <TextStyle.White>No Teaming</>\r\n- Raiding, PvP, or defending with another tribe = illegal. Trading and avoiding conflict is okay.\r\n<TextStyle.Red>Rule 3</> - <TextStyle.White>No Insiding / Reverse Insiding</>\r\n- Tribe owners control the tribe. Leaving? Only take what’s given. Being kicked? Owners should fairly compensate.\r\n<TextStyle.Red>Rule 4</> - <TextStyle.White>Report Your Tribe</>\r\n- If someone in your tribe breaks the rules, report it. Innocent members who don’t participate can receive immunity — but not if you stood by and let it happen\r\n<TextStyle.Red>Rule 5</> - <TextStyle.White>No Scamming</>\r\n- Be fair and honest in trades. If you scam, you’re banned.\r\n\r\n<TextStyle.Red>Punishments:</>\r\n<TextStyle.White>1st Offence: Warning & Tribe logged</>\r\n<TextStyle.White>2nd Offence: 1-week ban</>\r\n<TextStyle.White>3rd Offence: Season ban</>\r\nAdmin discretion applies."
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "Drops",
+                "imageurl": "https://iili.io/dTyfMUG.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.White>White</>, <TextStyle.Green>Green</>, <TextStyle.Blue>Blue</> & <TextStyle.Violet>Purple</> Drops",
+                        "text": "<TextStyle.White>White Drops:</>\r\n- Starter Flak & Tools\r\n<TextStyle.Orange>Bonus</> <TextStyle.White>White</> <TextStyle.Orange>Drops:</>\r\n- Starter Flak & Tools, Small BP Chance\r\n\r\n<TextStyle.Green>Green Drops:</>\r\n- Starter Taming Kit + Basic Taming Food\r\n<TextStyle.Orange>Bonus</> <TextStyle.Green>Green</> <TextStyle.Orange>Drops:</>\r\n- Better Food + Small BP Chance\r\n\r\n<TextStyle.Blue>Blue Drops:</>\r\n- Building supplies\r\n<TextStyle.Orange>Bonus</> <TextStyle.Blue>Blue</> <TextStyle.Orange>Drops:</>\r\n- Advanced building pieces and small Auto Turret chance\r\n\r\n<TextStyle.Violet>Purple Drops:</>\r\n- Boss Artifacts, Tributes & Chibis\r\n<TextStyle.Orange>Bonus</> <TextStyle.Violet>Purple</> <TextStyle.Orange>Drops:</>\r\n- 1 of Every Boss Artifact + Tribute needed for this maps boss"
+                    },
+                    {
+                        "title": "<TextStyle.Yellow>Yellow</> & <TextStyle.Red>Red</> Drops",
+                        "text": "<TextStyle.Yellow>Yellow Drops:</>\r\nHardback Saddles & Saddle BPs\r\n<TextStyle.Orange>Bonus</> <TextStyle.Yellow>Yellow</> <TextStyle.Orange>Drops:</>\r\nLess Hardback Saddles & More Saddle BPs\r\n\r\n<TextStyle.Red>Red Drops:</>\r\nSaddle & PvP BPs\r\n<TextStyle.Orange>Bonus</> <TextStyle.Red>Red</> <TextStyle.Orange>Drops:</>\r\nup to a Double Drop worth of Blueprints"
+                    },
+                    {
+                        "title": "<TextStyle.Orange>BOSS</> Drops",
+                        "text": "Bosses in TGP Drop their normal element & will also drop 2 - 3 Blueprints Per Boss. These blueprints are one of the best ways to gear farm in TGP other than the Bonus Red & Yellow Skydrops & Cave Drops. \r\n\r\nBossfights are simple to farm and prepare for considering that that purple drops give you the artifacts so you shouldnt have to much trouble getting ready!"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"1,0.65,0,1\">Tip's</>",
+                "imageurl": "https://iili.io/dho5I3b.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Orange>Mod List</>",
+                        "text": "<TextStyle.Yellow>CybersPullit!</>\r\nThis mod provides 3 buttons above your inventory and containers allowing the wireless transfer of resources!\r\n\r\n<TextStyle.Yellow>Element And Tribute Transfers</>\r\nThis mod adds a new engram that when learnt, after a 15 second delay new craftable engrams appear for a transferable piece of most items in the game. After crafting and transfering, simply consume the transferable variant of the item to turn it back to normal\r\n\r\n<TextStyle.Yellow>Helena Bot Companion</>\r\nThis mod not only locks the Admin Privelages behind a wall only accessable by the people the owner marks as GameMasters. It also allows players to link their account via the discord and access tribe logs directly from discord\r\n\r\n<TextStyle.Yellow>Resonant's Shop Mod</>\r\nYou can earn points passively over time or by PvP (Player Vs Player) killing someone you can steal 5% of their total balance. To access the store hold the Interact Button (Square on PS, X on Xbox or R on PC) From there you may make purchases and trade points with others\r\n\r\n<TextStyle.Yellow>Silent Structures</>\r\nOpen the Pause/Main Menu and select the Volume Slider\r\n\r\n<TextStyle.Yellow>Solo Farm Mod</>\r\nThis mod allows you to enable autofarm mod on dinos as well as allows you to set what resources they are allowed to farm via the Solo Farm Mod Remote (Engram you can Learn)\r\n\r\n<TextStyle.Yellow>Pelayori's Cryo Storage</>\r\nPelyoris have a CryoGun that requires you to use the Cryo Chambers to get it to work. You can Cryo a dino from a far as well as read more information about your dinos among other things\r\n\r\n<TextStyle.Yellow>Utilities Plus</>\r\nThis mod brings Re-Useable variants of the different items in the game. For example: Grapple Hooks, Parachuts, Flare Guns among others\r\n\r\n<TextStyle.Yellow>Automated Ark</>\r\nThis Mod brings a hoarde of new items that allow for wireless resource pulling, automated resource management among many other great features. It also features Special Kibble in the Gardening station to speed up Breeding"
+                    },
+                    {
+                        "title": "<TextStyle.Orange>Important Notes</>",
+                        "text": "<TextStyle.White>Server Cross Chat</>\r\nOur community features Cross Cluster Chat allowing the ability to talk to the community across servers with ease bringing the community closer\r\n\r\n<TextStyle.Green>Transfering Points</>\r\nWe will allow you to transfer points either between maps or to the Discord Px Shop Bot via a ticket (2500 Minimum)\r\n\r\n<TextStyle.Blue>ORP</>\r\n- This device does not provide complete immunity, It is for Solo's & Duo's Only, It is via Ticket in discord. \r\n- When you log off a 30 minute timer begins, Once it is completed your turrets damage & structure resistance increases to 2x \r\n\r\n<TextStyle.Red>Admins</>\r\n- Admins will not force join you to tribes. The cooldown timer exists for a reason.\r\n- Admins are not responsible for items lost due to server resets, Wildcard bugs, getting Arked or disconnections. So try to always log out in a safe place!\r\n- We are always here to support our community. The absolute best place to reach out to us is via the discord and submitting a ticket.\r\n\r\n\r\n<TextStyle.Orange>Evidence</>\r\nWe require evidence for most things. If you experience an issue or notice something causeing you trouble,<TextStyle.Red>PLEASE CLIP EVERYTHING</> if you cannot directly prove the accusation and an admin cannot find any evidence, we may not be able to do anything to assist!"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/tgpasa"
+            },
+            {
+                "text": "<RichColor Color=\"0,0,1,1\">G</><RichColor Color=\"1,0,0,1\">o</><RichColor Color=\"1,0.65,0,1\">o</><RichColor Color=\"0,0,1,1\">g</><RichColor Color=\"0,1,0,1\">l</><RichColor Color=\"1,0,0,1\">e</>",
+                "url": "https://google.com"
+            },
+            {
+                "text": "<RichColor Color=\"0,1,0,1\">Gamepedia</>",
+                "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+            },
+            {
+                "text": "<RichColor Color=\"0,1,0,1\">Dodo Dex</>",
+                "url": "https://www.dododex.com/"
+            },
+            {
+                "text": "<RichColor Color=\"0,1,0,1\">Donations</>",
+                "url": "https://buy.stripe.com/00g7w7cHbfiT90YbIL"
+            }
+        ],
+        "version": 2
+    }
+}
